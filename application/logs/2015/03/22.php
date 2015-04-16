@@ -1,0 +1,2286 @@
+<?php defined('SYSPATH') OR die('No direct script access.'); ?>
+
+2015-03-22 00:56:11 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:56:11 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:04 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:04 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:06 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:06 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:06 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:06 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:06 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:06 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:07 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:07 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:07 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:07 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:07 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:07 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:07 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:07 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:07 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:07 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:08 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:08 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:08 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:08 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:08 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:08 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:08 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:08 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:09 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:09 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:27 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:27 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:28 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:28 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:28 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:28 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:29 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:30 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:30 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:30 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:30 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:30 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:30 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:30 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:30 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:30 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:30 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:31 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:31 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:31 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:31 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:31 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:31 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:31 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:31 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:31 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:31 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:31 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:31 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:32 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:32 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:32 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:32 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:32 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:32 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:32 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:32 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:32 --- CRITICAL: Kohana_Exception [ 0 ]: A valid cookie salt is required. Please set Cookie::$salt in your bootstrap.php. For more information check the documentation ~ SYSPATH\classes\Kohana\Cookie.php [ 158 ] in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 00:57:32 --- DEBUG: #0 C:\kohana\system\classes\Kohana\Cookie.php(67): Kohana_Cookie::salt('PHPSESSID', NULL)
+#1 C:\kohana\system\classes\Kohana\Request.php(151): Kohana_Cookie::get('PHPSESSID')
+#2 C:\kohana\index.php(117): Kohana_Request::factory(true, Array, false)
+#3 {main} in C:\kohana\system\classes\Kohana\Cookie.php:67
+2015-03-22 01:07:33 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\kohana\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:07:33 --- DEBUG: #0 C:\kohana\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\kohana\syste...', 28, Array)
+#1 C:\kohana\application\classes\Controller\index.php(10): Kohana_View::factory('index', '???????????????...')
+#2 C:\kohana\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\kohana\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\kohana\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\kohana\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\kohana\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:08:56 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\kohana\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:08:56 --- DEBUG: #0 C:\kohana\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\kohana\syste...', 28, Array)
+#1 C:\kohana\application\classes\Controller\index.php(10): Kohana_View::factory('index', '???????????????...')
+#2 C:\kohana\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\kohana\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\kohana\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\kohana\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\kohana\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:08:56 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\kohana\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:08:56 --- DEBUG: #0 C:\kohana\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\kohana\syste...', 28, Array)
+#1 C:\kohana\application\classes\Controller\index.php(10): Kohana_View::factory('index', '???????????????...')
+#2 C:\kohana\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\kohana\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\kohana\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\kohana\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\kohana\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:08:57 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\kohana\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:08:57 --- DEBUG: #0 C:\kohana\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\kohana\syste...', 28, Array)
+#1 C:\kohana\application\classes\Controller\index.php(10): Kohana_View::factory('index', '???????????????...')
+#2 C:\kohana\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\kohana\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\kohana\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\kohana\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\kohana\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:09:05 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\kohana\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:09:05 --- DEBUG: #0 C:\kohana\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\kohana\syste...', 28, Array)
+#1 C:\kohana\application\classes\Controller\index.php(10): Kohana_View::factory('index', '???????????????...')
+#2 C:\kohana\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\kohana\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\kohana\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\kohana\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\kohana\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:09:15 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\kohana\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:09:15 --- DEBUG: #0 C:\kohana\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\kohana\syste...', 28, Array)
+#1 C:\kohana\application\classes\Controller\index.php(10): Kohana_View::factory('index', '???????????????...')
+#2 C:\kohana\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\kohana\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\kohana\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\kohana\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\kohana\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:09:21 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\kohana\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 01:09:21 --- DEBUG: #0 C:\kohana\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\kohana\syste...', 28, Array)
+#1 C:\kohana\application\classes\Controller\index.php(10): Kohana_View::factory('index', '???????????????...')
+#2 C:\kohana\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\kohana\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\kohana\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\kohana\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\kohana\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\kohana\system\classes\Kohana\View.php:28
+2015-03-22 00:34:07 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:34:07 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', '\xD0\xA1\xD0\xB0\xD0\xB9\xD1\x82\xD1\x81\xD0\xBE\xD1\x84\xD1...')
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:36:57 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:36:57 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', '\xD0\xA1\xD0\xB0\xD0\xB9\xD1\x82\xD1\x81\xD0\xBE\xD1\x84\xD1...')
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:36:58 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:36:58 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', '\xD0\xA1\xD0\xB0\xD0\xB9\xD1\x82\xD1\x81\xD0\xBE\xD1\x84\xD1...')
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:36:59 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:36:59 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', '\xD0\xA1\xD0\xB0\xD0\xB9\xD1\x82\xD1\x81\xD0\xBE\xD1\x84\xD1...')
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:36:59 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:36:59 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', '\xD0\xA1\xD0\xB0\xD0\xB9\xD1\x82\xD1\x81\xD0\xBE\xD1\x84\xD1...')
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:36:59 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:36:59 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', '\xD0\xA1\xD0\xB0\xD0\xB9\xD1\x82\xD1\x81\xD0\xBE\xD1\x84\xD1...')
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:36:59 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:36:59 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', '\xD0\xA1\xD0\xB0\xD0\xB9\xD1\x82\xD1\x81\xD0\xBE\xD1\x84\xD1...')
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:37:43 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:37:43 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', '\xD0\xA1\xD0\xB0\xD0\xB9\xD1\x82\xD1\x81\xD0\xBE\xD1\x84\xD1...')
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:38:26 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:38:26 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', '\xD0\xA1\xD0\xB0\xD0\xB9\xD1\x82\xD1\x81\xD0\xBE\xD1\x84\xD1...')
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:39:05 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: title_page ~ APPPATH\classes\Controller\index.php [ 10 ] in C:\xampp\htdocs\application\classes\Controller\index.php:10
+2015-03-22 00:39:05 --- DEBUG: #0 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#2 [internal function]: Kohana_Controller->execute()
+#3 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#6 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#7 {main} in C:\xampp\htdocs\application\classes\Controller\index.php:10
+2015-03-22 00:39:23 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, string given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:39:23 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', 'oll')
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 00:41:18 --- CRITICAL: ErrorException [ 8 ]: Use of undefined constant page_teitle - assumed 'page_teitle' ~ APPPATH\classes\Controller\index.php [ 8 ] in C:\xampp\htdocs\application\classes\Controller\index.php:8
+2015-03-22 00:41:18 --- DEBUG: #0 C:\xampp\htdocs\application\classes\Controller\index.php(8): Kohana_Core::error_handler(8, 'Use of undefine...', 'C:\\xampp\\htdocs...', 8, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#2 [internal function]: Kohana_Controller->execute()
+#3 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#6 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#7 {main} in C:\xampp\htdocs\application\classes\Controller\index.php:8
+2015-03-22 00:42:56 --- CRITICAL: ErrorException [ 8 ]: Use of undefined constant page_taitle - assumed 'page_taitle' ~ APPPATH\classes\Controller\index.php [ 8 ] in C:\xampp\htdocs\application\classes\Controller\index.php:8
+2015-03-22 00:42:56 --- DEBUG: #0 C:\xampp\htdocs\application\classes\Controller\index.php(8): Kohana_Core::error_handler(8, 'Use of undefine...', 'C:\\xampp\\htdocs...', 8, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#2 [internal function]: Kohana_Controller->execute()
+#3 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#6 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#7 {main} in C:\xampp\htdocs\application\classes\Controller\index.php:8
+2015-03-22 00:43:24 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: data ~ APPPATH\views\index.php [ 4 ] in C:\xampp\htdocs\application\views\index.php:4
+2015-03-22 00:43:24 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(4): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Response.php(160): Kohana_View->__toString()
+#5 C:\xampp\htdocs\application\classes\Controller\index.php(9): Kohana_Response->body(Object(View))
+#6 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#7 [internal function]: Kohana_Controller->execute()
+#8 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#9 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#10 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#11 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#12 {main} in C:\xampp\htdocs\application\views\index.php:4
+2015-03-22 00:43:32 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: data ~ APPPATH\views\index.php [ 4 ] in C:\xampp\htdocs\application\views\index.php:4
+2015-03-22 00:43:32 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(4): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Response.php(160): Kohana_View->__toString()
+#5 C:\xampp\htdocs\application\classes\Controller\index.php(9): Kohana_Response->body(Object(View))
+#6 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#7 [internal function]: Kohana_Controller->execute()
+#8 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#9 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#10 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#11 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#12 {main} in C:\xampp\htdocs\application\views\index.php:4
+2015-03-22 06:49:44 --- CRITICAL: ErrorException [ 2 ]: Creating default object from empty value ~ APPPATH\classes\Controller\index.php [ 14 ] in C:\xampp\htdocs\application\classes\Controller\index.php:14
+2015-03-22 06:49:44 --- DEBUG: #0 C:\xampp\htdocs\application\classes\Controller\index.php(14): Kohana_Core::error_handler(2, 'Creating defaul...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#2 [internal function]: Kohana_Controller->execute()
+#3 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#6 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#7 {main} in C:\xampp\htdocs\application\classes\Controller\index.php:14
+2015-03-22 06:50:38 --- CRITICAL: ErrorException [ 2 ]: Creating default object from empty value ~ APPPATH\classes\Controller\index.php [ 17 ] in C:\xampp\htdocs\application\classes\Controller\index.php:17
+2015-03-22 06:50:38 --- DEBUG: #0 C:\xampp\htdocs\application\classes\Controller\index.php(17): Kohana_Core::error_handler(2, 'Creating defaul...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#2 [internal function]: Kohana_Controller->execute()
+#3 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#6 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#7 {main} in C:\xampp\htdocs\application\classes\Controller\index.php:17
+2015-03-22 06:51:09 --- CRITICAL: ErrorException [ 2 ]: Creating default object from empty value ~ APPPATH\classes\Controller\index.php [ 17 ] in C:\xampp\htdocs\application\classes\Controller\index.php:17
+2015-03-22 06:51:09 --- DEBUG: #0 C:\xampp\htdocs\application\classes\Controller\index.php(17): Kohana_Core::error_handler(2, 'Creating defaul...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#2 [internal function]: Kohana_Controller->execute()
+#3 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#6 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#7 {main} in C:\xampp\htdocs\application\classes\Controller\index.php:17
+2015-03-22 06:51:10 --- CRITICAL: ErrorException [ 2 ]: Creating default object from empty value ~ APPPATH\classes\Controller\index.php [ 17 ] in C:\xampp\htdocs\application\classes\Controller\index.php:17
+2015-03-22 06:51:10 --- DEBUG: #0 C:\xampp\htdocs\application\classes\Controller\index.php(17): Kohana_Core::error_handler(2, 'Creating defaul...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#2 [internal function]: Kohana_Controller->execute()
+#3 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#6 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#7 {main} in C:\xampp\htdocs\application\classes\Controller\index.php:17
+2015-03-22 07:01:36 --- CRITICAL: ErrorException [ 2 ]: Attempt to assign property of non-object ~ APPPATH\classes\Controller\index.php [ 16 ] in C:\xampp\htdocs\application\classes\Controller\index.php:16
+2015-03-22 07:01:36 --- DEBUG: #0 C:\xampp\htdocs\application\classes\Controller\index.php(16): Kohana_Core::error_handler(2, 'Attempt to assi...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#2 [internal function]: Kohana_Controller->execute()
+#3 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#6 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#7 {main} in C:\xampp\htdocs\application\classes\Controller\index.php:16
+2015-03-22 07:06:53 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: content ~ APPPATH\views\template.php [ 29 ] in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 07:06:53 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(29): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 07:15:04 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: title ~ APPPATH\views\template.php [ 4 ] in C:\xampp\htdocs\application\views\template.php:4
+2015-03-22 07:15:04 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(4): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:4
+2015-03-22 09:03:36 --- CRITICAL: ErrorException [ 8 ]: Use of undefined constant login - assumed 'login' ~ APPPATH\views\template.php [ 17 ] in C:\xampp\htdocs\application\views\template.php:17
+2015-03-22 09:03:36 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(17): Kohana_Core::error_handler(8, 'Use of undefine...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:17
+2015-03-22 09:04:02 --- CRITICAL: ErrorException [ 8 ]: Use of undefined constant login - assumed 'login' ~ APPPATH\views\template.php [ 17 ] in C:\xampp\htdocs\application\views\template.php:17
+2015-03-22 09:04:02 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(17): Kohana_Core::error_handler(8, 'Use of undefine...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:17
+2015-03-22 09:04:02 --- CRITICAL: ErrorException [ 8 ]: Use of undefined constant login - assumed 'login' ~ APPPATH\views\template.php [ 17 ] in C:\xampp\htdocs\application\views\template.php:17
+2015-03-22 09:04:02 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(17): Kohana_Core::error_handler(8, 'Use of undefine...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:17
+2015-03-22 09:04:03 --- CRITICAL: ErrorException [ 8 ]: Use of undefined constant login - assumed 'login' ~ APPPATH\views\template.php [ 17 ] in C:\xampp\htdocs\application\views\template.php:17
+2015-03-22 09:04:03 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(17): Kohana_Core::error_handler(8, 'Use of undefine...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:17
+2015-03-22 09:04:03 --- CRITICAL: ErrorException [ 8 ]: Use of undefined constant login - assumed 'login' ~ APPPATH\views\template.php [ 17 ] in C:\xampp\htdocs\application\views\template.php:17
+2015-03-22 09:04:03 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(17): Kohana_Core::error_handler(8, 'Use of undefine...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:17
+2015-03-22 12:37:02 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:02 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:52 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:52 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:53 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:53 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:54 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:54 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:54 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:54 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:54 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:54 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:55 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:55 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:55 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:55 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:55 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:55 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:55 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:55 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:55 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:55 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:55 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:55 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:56 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:37:56 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:39:04 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:39:04 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:39:05 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:39:05 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:39:05 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:39:05 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:39:05 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:39:05 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:42:36 --- CRITICAL: ErrorException [ 4 ]: syntax error, unexpected ''hostname'' (T_CONSTANT_ENCAPSED_STRING), expecting '(' ~ APPPATH\config\database.php [ 9 ] in file:line
+2015-03-22 12:42:36 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 12:42:57 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:42:57 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:43:17 --- CRITICAL: ErrorException [ 1 ]: Class 'Database_Mysqli' not found ~ MODPATH\database\classes\Kohana\Database.php [ 78 ] in file:line
+2015-03-22 12:43:17 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 12:43:40 --- CRITICAL: Database_Exception [ 0 ]: invalid data source name ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 59 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\PDO.php:136
+2015-03-22 12:43:40 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\PDO.php(136): Kohana_Database_PDO->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_PDO->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\PDO.php:136
+2015-03-22 12:46:16 --- CRITICAL: ErrorException [ 8 ]: Use of undefined constant root - assumed 'root' ~ APPPATH\config\database.php [ 23 ] in C:\xampp\htdocs\application\config\database.php:23
+2015-03-22 12:46:16 --- DEBUG: #0 C:\xampp\htdocs\application\config\database.php(23): Kohana_Core::error_handler(8, 'Use of undefine...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Core.php(829): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\Config\File\Reader.php(49): Kohana_Core::load('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\system\classes\Kohana\Config.php(130): Kohana_Config_File_Reader->load('database')
+#4 C:\xampp\htdocs\modules\database\classes\Kohana\Database.php(65): Kohana_Config->load('database')
+#5 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(220): Kohana_Database::instance(NULL)
+#6 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#7 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\config\database.php:23
+2015-03-22 12:46:17 --- CRITICAL: ErrorException [ 8 ]: Use of undefined constant root - assumed 'root' ~ APPPATH\config\database.php [ 23 ] in C:\xampp\htdocs\application\config\database.php:23
+2015-03-22 12:46:17 --- DEBUG: #0 C:\xampp\htdocs\application\config\database.php(23): Kohana_Core::error_handler(8, 'Use of undefine...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Core.php(829): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\Config\File\Reader.php(49): Kohana_Core::load('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\system\classes\Kohana\Config.php(130): Kohana_Config_File_Reader->load('database')
+#4 C:\xampp\htdocs\modules\database\classes\Kohana\Database.php(65): Kohana_Config->load('database')
+#5 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(220): Kohana_Database::instance(NULL)
+#6 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#7 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\config\database.php:23
+2015-03-22 12:46:30 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:46:30 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:56:28 --- CRITICAL: ErrorException [ 1 ]: Class 'Database_Mysqliz' not found ~ MODPATH\database\classes\Kohana\Database.php [ 78 ] in file:line
+2015-03-22 12:56:28 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 12:57:46 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:57:46 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(1, 'SELECT * FROM p...', false, Array)
+#2 C:\xampp\htdocs\application\classes\Model\post.php(16): Kohana_Database_Query->execute()
+#3 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 12:58:14 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 12:58:14 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:00:01 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:00:01 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:00:02 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:00:02 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:42 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:42 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:44 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:44 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:44 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:44 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:44 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:44 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:44 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:44 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:45 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:45 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:45 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:02:45 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:25:27 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:25:27 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:26:05 --- CRITICAL: ErrorException [ 4096 ]: Object of class Database_Result_Cached could not be converted to string ~ APPPATH\views\template.php [ 29 ] in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:26:05 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(29): Kohana_Core::error_handler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:01 --- CRITICAL: ErrorException [ 8 ]: Undefined index: message ~ MODPATH\database\classes\Kohana\Database\Result\Cached.php [ 48 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Result\Cached.php:48
+2015-03-22 13:34:01 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Result\Cached.php(48): Kohana_Core::error_handler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Result.php(243): Kohana_Database_Result_Cached->current()
+#2 C:\xampp\htdocs\application\views\template.php(29): Kohana_Database_Result->offsetGet('message')
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#5 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#6 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#7 [internal function]: Kohana_Controller->execute()
+#8 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#9 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#10 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#11 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#12 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Result\Cached.php:48
+2015-03-22 13:34:16 --- CRITICAL: ErrorException [ 8 ]: Array to string conversion ~ APPPATH\views\template.php [ 29 ] in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:16 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(29): Kohana_Core::error_handler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:29 --- CRITICAL: ErrorException [ 8 ]: Array to string conversion ~ APPPATH\views\template.php [ 29 ] in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:29 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(29): Kohana_Core::error_handler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:30 --- CRITICAL: ErrorException [ 8 ]: Array to string conversion ~ APPPATH\views\template.php [ 29 ] in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:30 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(29): Kohana_Core::error_handler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:31 --- CRITICAL: ErrorException [ 8 ]: Array to string conversion ~ APPPATH\views\template.php [ 29 ] in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:31 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(29): Kohana_Core::error_handler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:31 --- CRITICAL: ErrorException [ 8 ]: Array to string conversion ~ APPPATH\views\template.php [ 29 ] in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:31 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(29): Kohana_Core::error_handler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:31 --- CRITICAL: ErrorException [ 8 ]: Array to string conversion ~ APPPATH\views\template.php [ 29 ] in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:31 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(29): Kohana_Core::error_handler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:32 --- CRITICAL: ErrorException [ 8 ]: Array to string conversion ~ APPPATH\views\template.php [ 29 ] in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:32 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(29): Kohana_Core::error_handler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:29
+2015-03-22 13:34:48 --- CRITICAL: ErrorException [ 8 ]: Undefined index: user ~ MODPATH\database\classes\Kohana\Database\Result\Cached.php [ 48 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Result\Cached.php:48
+2015-03-22 13:34:48 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Result\Cached.php(48): Kohana_Core::error_handler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Result.php(243): Kohana_Database_Result_Cached->current()
+#2 C:\xampp\htdocs\application\views\template.php(29): Kohana_Database_Result->offsetGet('user')
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#5 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#6 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#7 [internal function]: Kohana_Controller->execute()
+#8 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#9 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#10 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#11 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#12 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Result\Cached.php:48
+2015-03-22 13:35:51 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: article ~ APPPATH\views\template.php [ 32 ] in C:\xampp\htdocs\application\views\template.php:32
+2015-03-22 13:35:51 --- DEBUG: #0 C:\xampp\htdocs\application\views\template.php(32): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\application\views\template.php:32
+2015-03-22 13:36:07 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:36:07 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(38): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:40:15 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:40:15 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:40:54 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, object given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 13:40:54 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', Object(Database_Result_Cached))
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 13:41:33 --- CRITICAL: ErrorException [ 2 ]: Creating default object from empty value ~ APPPATH\classes\Controller\index.php [ 9 ] in C:\xampp\htdocs\application\classes\Controller\index.php:9
+2015-03-22 13:41:33 --- DEBUG: #0 C:\xampp\htdocs\application\classes\Controller\index.php(9): Kohana_Core::error_handler(2, 'Creating defaul...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#2 [internal function]: Kohana_Controller->execute()
+#3 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#6 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#7 {main} in C:\xampp\htdocs\application\classes\Controller\index.php:9
+2015-03-22 13:41:33 --- CRITICAL: ErrorException [ 2 ]: Creating default object from empty value ~ APPPATH\classes\Controller\index.php [ 9 ] in C:\xampp\htdocs\application\classes\Controller\index.php:9
+2015-03-22 13:41:33 --- DEBUG: #0 C:\xampp\htdocs\application\classes\Controller\index.php(9): Kohana_Core::error_handler(2, 'Creating defaul...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#2 [internal function]: Kohana_Controller->execute()
+#3 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#6 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#7 {main} in C:\xampp\htdocs\application\classes\Controller\index.php:9
+2015-03-22 13:41:34 --- CRITICAL: ErrorException [ 2 ]: Creating default object from empty value ~ APPPATH\classes\Controller\index.php [ 9 ] in C:\xampp\htdocs\application\classes\Controller\index.php:9
+2015-03-22 13:41:34 --- DEBUG: #0 C:\xampp\htdocs\application\classes\Controller\index.php(9): Kohana_Core::error_handler(2, 'Creating defaul...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#2 [internal function]: Kohana_Controller->execute()
+#3 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#6 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#7 {main} in C:\xampp\htdocs\application\classes\Controller\index.php:9
+2015-03-22 13:42:05 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, object given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 13:42:05 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', Object(Database_Result_Cached))
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 13:42:05 --- CRITICAL: ErrorException [ 4096 ]: Argument 2 passed to Kohana_View::factory() must be of the type array, object given, called in C:\xampp\htdocs\application\classes\Controller\index.php on line 10 and defined ~ SYSPATH\classes\Kohana\View.php [ 28 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 13:42:05 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(28): Kohana_Core::error_handler(4096, 'Argument 2 pass...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\index.php(10): Kohana_View::factory('index', Object(Database_Result_Cached))
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:28
+2015-03-22 13:45:04 --- CRITICAL: ErrorException [ 8 ]: Undefined variable: posts ~ APPPATH\views\index.php [ 18 ] in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 13:45:04 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(18): Kohana_Core::error_handler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:18
+2015-03-22 14:14:03 --- CRITICAL: Database_Exception [ 42S02 ]: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kohana.messages' doesn't exist [ SELECT user, message FROM users JOIN messages ON (users.user = messages.user) LIMIT 5 ] ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 157 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:14:03 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_PDO->query(1, 'SELECT user, me...', false, Array)
+#1 C:\xampp\htdocs\application\classes\Model\post.php(17): Kohana_Database_Query->execute()
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:14:40 --- CRITICAL: Database_Exception [ 23000 ]: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user' in field list is ambiguous [ SELECT user, message FROM users JOIN posts ON (users.user = posts.user) LIMIT 5 ] ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 157 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:14:40 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_PDO->query(1, 'SELECT user, me...', false, Array)
+#1 C:\xampp\htdocs\application\classes\Model\post.php(17): Kohana_Database_Query->execute()
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:15:51 --- CRITICAL: Database_Exception [ 23000 ]: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user' in field list is ambiguous [ SELECT user, message FROM users JOIN posts ON (users.user = posts.user) ] ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 157 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:15:51 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_PDO->query(1, 'SELECT user, me...', false, Array)
+#1 C:\xampp\htdocs\application\classes\Model\post.php(17): Kohana_Database_Query->execute()
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:17:00 --- CRITICAL: Database_Exception [ 23000 ]: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user' in field list is ambiguous [ SELECT user, message FROM posts JOIN users ON (users.user = posts.user) ] ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 157 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:17:00 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_PDO->query(1, 'SELECT user, me...', false, Array)
+#1 C:\xampp\htdocs\application\classes\Model\post.php(17): Kohana_Database_Query->execute()
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:17:01 --- CRITICAL: Database_Exception [ 23000 ]: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user' in field list is ambiguous [ SELECT user, message FROM posts JOIN users ON (users.user = posts.user) ] ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 157 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:17:01 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_PDO->query(1, 'SELECT user, me...', false, Array)
+#1 C:\xampp\htdocs\application\classes\Model\post.php(17): Kohana_Database_Query->execute()
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:17:01 --- CRITICAL: Database_Exception [ 23000 ]: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user' in field list is ambiguous [ SELECT user, message FROM posts JOIN users ON (users.user = posts.user) ] ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 157 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:17:01 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_PDO->query(1, 'SELECT user, me...', false, Array)
+#1 C:\xampp\htdocs\application\classes\Model\post.php(17): Kohana_Database_Query->execute()
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:17:02 --- CRITICAL: Database_Exception [ 23000 ]: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user' in field list is ambiguous [ SELECT user, message FROM posts JOIN users ON (users.user = posts.user) ] ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 157 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:17:02 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_PDO->query(1, 'SELECT user, me...', false, Array)
+#1 C:\xampp\htdocs\application\classes\Model\post.php(17): Kohana_Database_Query->execute()
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:17:02 --- CRITICAL: Database_Exception [ 23000 ]: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user' in field list is ambiguous [ SELECT user, message FROM posts JOIN users ON (users.user = posts.user) ] ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 157 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:17:02 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_PDO->query(1, 'SELECT user, me...', false, Array)
+#1 C:\xampp\htdocs\application\classes\Model\post.php(17): Kohana_Database_Query->execute()
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(8): Model_Post->get_all()
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:26:23 --- CRITICAL: Database_Exception [ 42S22 ]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'field list' [ INSERT INTO users (login, password) VALUES ('qwdqwd', '') ] ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 157 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:26:23 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_PDO->query(2, 'INSERT INTO use...', false, Array)
+#1 C:\xampp\htdocs\application\classes\Model\user.php(14): Kohana_Database_Query->execute()
+#2 C:\xampp\htdocs\application\views\regsuccess.php(5): Model_User->add('qwdqwd', '')
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#6 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#7 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#9 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#10 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#11 [internal function]: Kohana_Controller->execute()
+#12 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#13 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#14 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#15 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#16 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 14:41:40 --- CRITICAL: ErrorException [ 1 ]: Call to undefined method Model_Post::add() ~ APPPATH\views\index.php [ 16 ] in file:line
+2015-03-22 14:41:40 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 15:00:18 --- CRITICAL: ErrorException [ 8 ]: Undefined index: user ~ APPPATH\views\index.php [ 16 ] in C:\xampp\htdocs\application\views\index.php:16
+2015-03-22 15:00:18 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(16): Kohana_Core::error_handler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:16
+2015-03-22 15:01:38 --- CRITICAL: ErrorException [ 4 ]: syntax error, unexpected end of file ~ APPPATH\views\index.php [ 27 ] in file:line
+2015-03-22 15:01:38 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 15:02:16 --- CRITICAL: ErrorException [ 8 ]: Undefined index: user ~ APPPATH\views\index.php [ 16 ] in C:\xampp\htdocs\application\views\index.php:16
+2015-03-22 15:02:16 --- DEBUG: #0 C:\xampp\htdocs\application\views\index.php(16): Kohana_Core::error_handler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\View.php(236): Kohana_View->render()
+#4 C:\xampp\htdocs\application\views\template.php(29): Kohana_View->__toString()
+#5 C:\xampp\htdocs\system\classes\Kohana\View.php(62): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\system\classes\Kohana\View.php(359): Kohana_View::capture('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller\Template.php(44): Kohana_View->render()
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(87): Kohana_Controller_Template->after()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\application\views\index.php:16
+2015-03-22 18:39:35 --- CRITICAL: ErrorException [ 1 ]: Call to undefined method Model_User::create_user() ~ APPPATH\classes\Controller\reg.php [ 11 ] in file:line
+2015-03-22 18:39:35 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 18:40:07 --- CRITICAL: ErrorException [ 1 ]: Call to undefined method Model_User::create_user() ~ APPPATH\classes\Controller\reg.php [ 11 ] in file:line
+2015-03-22 18:40:07 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 18:44:13 --- CRITICAL: Kohana_Exception [ 0 ]: Database method list_columns is not supported by Kohana_Database_PDO ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 241 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1668
+2015-03-22 18:44:13 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1668): Kohana_Database_PDO->list_columns('users')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(444): Kohana_ORM->list_columns()
+#2 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(389): Kohana_ORM->reload_columns()
+#3 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(254): Kohana_ORM->_initialize()
+#4 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(46): Kohana_ORM->__construct(NULL)
+#5 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Kohana_ORM::factory('user')
+#6 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#7 [internal function]: Kohana_Controller->execute()
+#8 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#9 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#10 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#11 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#12 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1668
+2015-03-22 18:51:06 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:51:06 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', 'we')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', 'we')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:51:33 --- CRITICAL: Kohana_Exception [ 0 ]: Database method list_columns is not supported by Kohana_Database_PDO ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 241 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1668
+2015-03-22 18:51:33 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1668): Kohana_Database_PDO->list_columns('users')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(444): Kohana_ORM->list_columns()
+#2 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(389): Kohana_ORM->reload_columns()
+#3 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(254): Kohana_ORM->_initialize()
+#4 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(46): Kohana_ORM->__construct(NULL)
+#5 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Kohana_ORM::factory('user')
+#6 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#7 [internal function]: Kohana_Controller->execute()
+#8 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#9 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#10 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#11 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#12 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1668
+2015-03-22 18:52:04 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:52:04 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', 'we')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', 'we')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:52:59 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 18:52:59 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 18:53:26 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:53:26 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', 'we')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', 'we')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:55:08 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:55:08 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', 'we')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', 'we')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:57:26 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:57:26 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', 'we')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', 'we')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(12): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:59:12 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:59:12 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', 'we')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', 'we')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(12): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:59:15 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 18:59:15 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', 'we')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', 'we')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(12): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:00:33 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:00:33 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', 'we')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', 'we')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(12): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:06:28 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:06:28 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', '123')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', '123')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(12): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:07:02 --- CRITICAL: ErrorException [ 1 ]: Call to undefined method Model_User::create_user() ~ APPPATH\classes\Controller\reg.php [ 12 ] in file:line
+2015-03-22 19:07:02 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 19:13:53 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:13:53 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', '123')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', '123')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(12): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:15:22 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:15:22 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', 'qwe')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', 'qwe')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(16): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:17:16 --- CRITICAL: Kohana_Exception [ 0 ]: Database method list_columns is not supported by Kohana_Database_PDO ~ MODPATH\database\classes\Kohana\Database\PDO.php [ 241 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1668
+2015-03-22 19:17:16 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1668): Kohana_Database_PDO->list_columns('users')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(444): Kohana_ORM->list_columns()
+#2 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(389): Kohana_ORM->reload_columns()
+#3 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(254): Kohana_ORM->_initialize()
+#4 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(46): Kohana_ORM->__construct(NULL)
+#5 C:\xampp\htdocs\application\classes\Controller\reg.php(12): Kohana_ORM::factory('user')
+#6 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#7 [internal function]: Kohana_Controller->execute()
+#8 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#9 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#10 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#11 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#12 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1668
+2015-03-22 19:20:00 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 19:20:00 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(359): Kohana_Database_MySQL->query(1, 'SHOW FULL COLUM...', false)
+#2 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1668): Kohana_Database_MySQL->list_columns('users')
+#3 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(444): Kohana_ORM->list_columns()
+#4 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(389): Kohana_ORM->reload_columns()
+#5 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(254): Kohana_ORM->_initialize()
+#6 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(46): Kohana_ORM->__construct(NULL)
+#7 C:\xampp\htdocs\application\classes\Controller\reg.php(12): Kohana_ORM::factory('user')
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 19:20:22 --- CRITICAL: ErrorException [ 1 ]: Class 'Database_MySQLi' not found ~ MODPATH\database\classes\Kohana\Database.php [ 78 ] in file:line
+2015-03-22 19:20:22 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 19:25:15 --- CRITICAL: Database_Exception [ 8192 ]: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 67 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 19:25:15 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(171): Kohana_Database_MySQL->connect()
+#1 C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php(359): Kohana_Database_MySQL->query(1, 'SHOW FULL COLUM...', false)
+#2 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1668): Kohana_Database_MySQL->list_columns('users')
+#3 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(444): Kohana_ORM->list_columns()
+#4 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(389): Kohana_ORM->reload_columns()
+#5 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(254): Kohana_ORM->_initialize()
+#6 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(46): Kohana_ORM->__construct(NULL)
+#7 C:\xampp\htdocs\application\classes\Controller\reg.php(12): Kohana_ORM::factory('user')
+#8 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#9 [internal function]: Kohana_Controller->execute()
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#12 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#13 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#14 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\MySQL.php:171
+2015-03-22 19:26:56 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:26:56 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', 'qwe')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', 'qwe')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(16): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:37:45 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:37:45 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', 'qwe')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', 'qwe')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(16): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:41:35 --- CRITICAL: Database_Exception [ 1048 ]: Column 'user_id' cannot be null [ INSERT INTO `roles_users` (`user_id`, `role_id`) VALUES (NULL, '1') ] ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 194 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 19:41:35 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(2, 'INSERT INTO `ro...', false, Array)
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1577): Kohana_Database_Query->execute(Object(Database_MySQL))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(21): Kohana_ORM->add('roles', Object(Model_Role))
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 19:43:59 --- CRITICAL: ErrorException [ 8 ]: Undefined index: password_confirm ~ APPPATH\classes\Controller\reg.php [ 17 ] in C:\xampp\htdocs\application\classes\Controller\reg.php:17
+2015-03-22 19:43:59 --- DEBUG: #0 C:\xampp\htdocs\application\classes\Controller\reg.php(17): Kohana_Core::error_handler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#2 [internal function]: Kohana_Controller->execute()
+#3 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#6 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#7 {main} in C:\xampp\htdocs\application\classes\Controller\reg.php:17
+2015-03-22 19:50:03 --- CRITICAL: Kohana_Exception [ 0 ]: The username property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:50:03 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('username', 'qweqwe')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('username', 'qweqwe')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 19:55:59 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 19:55:59 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 19:57:15 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 19:57:15 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:04:51 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:04:51 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:06:42 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:06:42 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:09:10 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:09:10 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:12:00 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:12:00 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(NULL)
+#1 C:\xampp\htdocs\application\classes\Controller\reg.php(13): Kohana_ORM->create()
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:13:02 --- CRITICAL: ErrorException [ 2 ]: Missing argument 1 for Model_Auth_User::create_user(), called in C:\xampp\htdocs\application\classes\Controller\reg.php on line 13 and defined ~ MODPATH\orm\classes\Model\Auth\User.php [ 161 ] in C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php:161
+2015-03-22 20:13:02 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(161): Kohana_Core::error_handler(2, 'Missing argumen...', 'C:\\xampp\\htdocs...', 161, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\reg.php(13): Model_Auth_User->create_user()
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php:161
+2015-03-22 20:14:45 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:14:45 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:27:39 --- CRITICAL: ErrorException [ 1 ]: Call to undefined method Form::email() ~ APPPATH\views\reg.php [ 19 ] in file:line
+2015-03-22 20:27:39 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 20:28:20 --- CRITICAL: Kohana_Exception [ 0 ]: The password_confirm property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 20:28:20 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('password_confir...', 'qweqweqwe')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('password_confir...', 'qweqweqwe')
+#2 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#4 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#5 [internal function]: Kohana_Controller->execute()
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#9 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#10 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 20:32:28 --- CRITICAL: ErrorException [ 1 ]: Class 'Model_user' not found ~ MODPATH\orm\classes\Kohana\ORM.php [ 46 ] in file:line
+2015-03-22 20:32:28 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 20:37:27 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:37:27 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:42:43 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:42:43 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:42:58 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:42:58 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:55:16 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:55:16 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:55:18 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:55:18 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:55:41 --- CRITICAL: ReflectionException [ 0 ]: Function empty() does not exist ~ SYSPATH\classes\Kohana\Validation.php [ 396 ] in C:\xampp\htdocs\system\classes\Kohana\Validation.php:396
+2015-03-22 20:55:41 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\Validation.php(396): ReflectionFunction->__construct('empty')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1273): Kohana_Validation->check()
+#2 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#3 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#4 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#5 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#6 [internal function]: Kohana_Controller->execute()
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#9 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#10 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#11 {main} in C:\xampp\htdocs\system\classes\Kohana\Validation.php:396
+2015-03-22 20:58:25 --- CRITICAL: ErrorException [ 4096 ]: Argument 3 passed to Kohana_Validation::rule() must be of the type array, string given, called in C:\xampp\htdocs\system\classes\Kohana\Validation.php on line 242 and defined ~ SYSPATH\classes\Kohana\Validation.php [ 211 ] in C:\xampp\htdocs\system\classes\Kohana\Validation.php:211
+2015-03-22 20:58:25 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\Validation.php(211): Kohana_Core::error_handler(4096, 'Argument 3 pass...', 'C:\\xampp\\htdocs...', 211, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Validation.php(242): Kohana_Validation->rule('email', Object(Model_User), '/*')
+#2 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(410): Kohana_Validation->rules('email', Array)
+#3 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1269): Kohana_ORM->_validation()
+#4 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#5 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#6 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#8 [internal function]: Kohana_Controller->execute()
+#9 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#12 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#13 {main} in C:\xampp\htdocs\system\classes\Kohana\Validation.php:211
+2015-03-22 20:58:48 --- CRITICAL: ReflectionException [ 0 ]: Function /*() does not exist ~ SYSPATH\classes\Kohana\Validation.php [ 396 ] in C:\xampp\htdocs\system\classes\Kohana\Validation.php:396
+2015-03-22 20:58:48 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\Validation.php(396): ReflectionFunction->__construct('/*')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1273): Kohana_Validation->check()
+#2 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#3 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#4 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#5 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#6 [internal function]: Kohana_Controller->execute()
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#9 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#10 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#11 {main} in C:\xampp\htdocs\system\classes\Kohana\Validation.php:396
+2015-03-22 20:59:00 --- CRITICAL: ReflectionException [ 0 ]: Function () does not exist ~ SYSPATH\classes\Kohana\Validation.php [ 396 ] in C:\xampp\htdocs\system\classes\Kohana\Validation.php:396
+2015-03-22 20:59:00 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\Validation.php(396): ReflectionFunction->__construct('')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1273): Kohana_Validation->check()
+#2 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#3 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#4 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#5 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#6 [internal function]: Kohana_Controller->execute()
+#7 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#8 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#9 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#10 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#11 {main} in C:\xampp\htdocs\system\classes\Kohana\Validation.php:396
+2015-03-22 20:59:14 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 20:59:14 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:03:49 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:03:49 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:03:53 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:03:53 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:04:08 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:04:08 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(15): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:10:45 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:10:45 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(14): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:11:02 --- CRITICAL: ErrorException [ 4096 ]: Argument 3 passed to Kohana_Validation::rule() must be of the type array, string given, called in C:\xampp\htdocs\system\classes\Kohana\Validation.php on line 242 and defined ~ SYSPATH\classes\Kohana\Validation.php [ 211 ] in C:\xampp\htdocs\system\classes\Kohana\Validation.php:211
+2015-03-22 21:11:02 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\Validation.php(211): Kohana_Core::error_handler(4096, 'Argument 3 pass...', 'C:\\xampp\\htdocs...', 211, Array)
+#1 C:\xampp\htdocs\system\classes\Kohana\Validation.php(242): Kohana_Validation->rule('email', Object(Model_User), '/*')
+#2 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(410): Kohana_Validation->rules('email', Array)
+#3 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1269): Kohana_ORM->_validation()
+#4 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#5 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#6 C:\xampp\htdocs\application\classes\Controller\reg.php(14): Model_Auth_User->create_user(Array, Array)
+#7 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#8 [internal function]: Kohana_Controller->execute()
+#9 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#10 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#11 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#12 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#13 {main} in C:\xampp\htdocs\system\classes\Kohana\Validation.php:211
+2015-03-22 21:11:23 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:11:23 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(14): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:12:09 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:12:09 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(14): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:13:37 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:13:37 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(14): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:14:30 --- CRITICAL: Kohana_Exception [ 0 ]: The password_confirm property does not exist in the Model_User class ~ MODPATH\orm\classes\Kohana\ORM.php [ 760 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 21:14:30 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(702): Kohana_ORM->set('password_confir...', '123123')
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(804): Kohana_ORM->__set('password_confir...', '123123')
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(12): Kohana_ORM->values(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:702
+2015-03-22 21:14:43 --- CRITICAL: ErrorException [ 2 ]: Missing argument 1 for Model_Auth_User::create_user(), called in C:\xampp\htdocs\application\classes\Controller\reg.php on line 13 and defined ~ MODPATH\orm\classes\Model\Auth\User.php [ 161 ] in C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php:161
+2015-03-22 21:14:43 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(161): Kohana_Core::error_handler(2, 'Missing argumen...', 'C:\\xampp\\htdocs...', 161, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\reg.php(13): Model_Auth_User->create_user()
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php:161
+2015-03-22 21:15:44 --- CRITICAL: ErrorException [ 2 ]: Missing argument 1 for Model_Auth_User::create_user(), called in C:\xampp\htdocs\application\classes\Controller\reg.php on line 13 and defined ~ MODPATH\orm\classes\Model\Auth\User.php [ 161 ] in C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php:161
+2015-03-22 21:15:44 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(161): Kohana_Core::error_handler(2, 'Missing argumen...', 'C:\\xampp\\htdocs...', 161, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\reg.php(13): Model_Auth_User->create_user()
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php:161
+2015-03-22 21:15:58 --- CRITICAL: ErrorException [ 2 ]: Missing argument 1 for Model_Auth_User::create_user(), called in C:\xampp\htdocs\application\classes\Controller\reg.php on line 13 and defined ~ MODPATH\orm\classes\Model\Auth\User.php [ 161 ] in C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php:161
+2015-03-22 21:15:58 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(161): Kohana_Core::error_handler(2, 'Missing argumen...', 'C:\\xampp\\htdocs...', 161, Array)
+#1 C:\xampp\htdocs\application\classes\Controller\reg.php(13): Model_Auth_User->create_user()
+#2 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#3 [internal function]: Kohana_Controller->execute()
+#4 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#8 {main} in C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php:161
+2015-03-22 21:16:38 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:16:38 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:18:01 --- CRITICAL: ErrorException [ 1 ]: Call to undefined method Form::email() ~ APPPATH\views\reg.php [ 13 ] in file:line
+2015-03-22 21:18:01 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 21:19:02 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:19:02 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:19:11 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:19:11 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:20:13 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:20:13 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:28:34 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:28:34 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:38:20 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:38:20 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:41:00 --- CRITICAL: Database_Exception [ 1062 ]: Duplicate entry '1-1' for key 'PRIMARY' [ INSERT INTO `roles_users` (`user_id`, `role_id`) VALUES (1, '1') ] ~ MODPATH\database\classes\Kohana\Database\MySQL.php [ 194 ] in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 21:41:00 --- DEBUG: #0 C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php(251): Kohana_Database_MySQL->query(2, 'INSERT INTO `ro...', false, Array)
+#1 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1577): Kohana_Database_Query->execute(Object(Database_MySQL))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(12): Kohana_ORM->add('roles', Object(Model_Role))
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\database\classes\Kohana\Database\Query.php:251
+2015-03-22 21:42:21 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:42:21 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:43:51 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:43:51 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:46:38 --- CRITICAL: ErrorException [ 4 ]: syntax error, unexpected 'public' (T_PUBLIC) ~ APPPATH\classes\Model\user.php [ 3 ] in file:line
+2015-03-22 21:46:38 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 21:47:41 --- CRITICAL: ErrorException [ 1 ]: Class 'Model_Auth_Users' not found ~ APPPATH\classes\Model\user.php [ 4 ] in file:line
+2015-03-22 21:47:41 --- DEBUG: #0 [internal function]: Kohana_Core::shutdown_handler()
+#1 {main} in file:line
+2015-03-22 21:48:33 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:48:33 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:49:14 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:49:14 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:49:16 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:49:16 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:49:52 --- CRITICAL: ORM_Validation_Exception [ 0 ]: Failed to validate array ~ MODPATH\orm\classes\Kohana\ORM.php [ 1275 ] in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 21:49:52 --- DEBUG: #0 C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php(1302): Kohana_ORM->check(Object(Validation))
+#1 C:\xampp\htdocs\modules\orm\classes\Model\Auth\User.php(167): Kohana_ORM->create(Object(Validation))
+#2 C:\xampp\htdocs\application\classes\Controller\reg.php(11): Model_Auth_User->create_user(Array, Array)
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Reg->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Reg))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\modules\orm\classes\Kohana\ORM.php:1302
+2015-03-22 22:06:03 --- CRITICAL: View_Exception [ 0 ]: The requested view form_login could not be found ~ SYSPATH\classes\Kohana\View.php [ 265 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:06:03 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(145): Kohana_View->set_filename('form_login')
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(30): Kohana_View->__construct('form_login', NULL)
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(25): Kohana_View::factory('form_login')
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:06:56 --- CRITICAL: View_Exception [ 0 ]: The requested view form_login could not be found ~ SYSPATH\classes\Kohana\View.php [ 265 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:06:56 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(145): Kohana_View->set_filename('form_login')
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(30): Kohana_View->__construct('form_login', NULL)
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(25): Kohana_View::factory('form_login')
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:06:57 --- CRITICAL: View_Exception [ 0 ]: The requested view form_login could not be found ~ SYSPATH\classes\Kohana\View.php [ 265 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:06:57 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(145): Kohana_View->set_filename('form_login')
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(30): Kohana_View->__construct('form_login', NULL)
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(25): Kohana_View::factory('form_login')
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:07:00 --- CRITICAL: View_Exception [ 0 ]: The requested view form_login could not be found ~ SYSPATH\classes\Kohana\View.php [ 265 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:07:00 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(145): Kohana_View->set_filename('form_login')
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(30): Kohana_View->__construct('form_login', NULL)
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(25): Kohana_View::factory('form_login')
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:07:05 --- CRITICAL: View_Exception [ 0 ]: The requested view form_login could not be found ~ SYSPATH\classes\Kohana\View.php [ 265 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:07:05 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(145): Kohana_View->set_filename('form_login')
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(30): Kohana_View->__construct('form_login', NULL)
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(25): Kohana_View::factory('form_login')
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:07:12 --- CRITICAL: View_Exception [ 0 ]: The requested view form_login could not be found ~ SYSPATH\classes\Kohana\View.php [ 265 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:07:12 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(145): Kohana_View->set_filename('form_login')
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(30): Kohana_View->__construct('form_login', NULL)
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(25): Kohana_View::factory('form_login')
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:07:18 --- CRITICAL: View_Exception [ 0 ]: The requested view form_login could not be found ~ SYSPATH\classes\Kohana\View.php [ 265 ] in C:\xampp\htdocs\system\classes\Kohana\View.php:145
+2015-03-22 22:07:18 --- DEBUG: #0 C:\xampp\htdocs\system\classes\Kohana\View.php(145): Kohana_View->set_filename('form_login')
+#1 C:\xampp\htdocs\system\classes\Kohana\View.php(30): Kohana_View->__construct('form_login', NULL)
+#2 C:\xampp\htdocs\application\classes\Controller\index.php(25): Kohana_View::factory('form_login')
+#3 C:\xampp\htdocs\system\classes\Kohana\Controller.php(84): Controller_Index->action_index()
+#4 [internal function]: Kohana_Controller->execute()
+#5 C:\xampp\htdocs\system\classes\Kohana\Request\Client\Internal.php(97): ReflectionMethod->invoke(Object(Controller_Index))
+#6 C:\xampp\htdocs\system\classes\Kohana\Request\Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#7 C:\xampp\htdocs\system\classes\Kohana\Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#8 C:\xampp\htdocs\index.php(118): Kohana_Request->execute()
+#9 {main} in C:\xampp\htdocs\system\classes\Kohana\View.php:145
